@@ -35,4 +35,4 @@ All models achieved **100% accuracy** on the test set:
  ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sdrsinghgurmeet-sketch/CodeAlpha_IrisClassification.git
+   git clone https://github.com/sdrsinghgurmeet-sketch/CodeAlpha_IrisClassification
